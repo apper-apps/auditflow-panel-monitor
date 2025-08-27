@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import KpiGrid from "@/components/organisms/KpiGrid";
 import HeatMap from "@/components/organisms/HeatMap";
 import ExceptionsList from "@/components/organisms/ExceptionsList";
-import ApperIcon from "@/components/atoms/ApperIcon";
+import ApperIcon from "@/components/ApperIcon";
 import React from "react";
 export default function Dashboard() {
   return (
