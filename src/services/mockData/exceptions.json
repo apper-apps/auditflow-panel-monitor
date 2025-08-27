@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "auditId": "AUD001",
+    "severity": "Medium",
+    "category": "Pricing",
+    "description": "Minor pricing inconsistencies found in electronics section",
+    "status": "In Progress",
+    "raisedDate": "2024-02-15T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "auditId": "AUD008",
+    "severity": "Critical",
+    "category": "Cleanliness",
+    "description": "Significant cleaning issues in food preparation area",
+    "status": "Open",
+    "raisedDate": "2024-02-12T18:45:00Z"
+  },
+  {
+    "Id": 3,
+    "auditId": "AUD008",
+    "severity": "High",
+    "category": "Display",
+    "description": "Poor product organization causing customer confusion",
+    "status": "Open",
+    "raisedDate": "2024-02-12T18:45:00Z"
+  },
+  {
+    "Id": 4,
+    "auditId": "AUD005",
+    "severity": "Medium",
+    "category": "Customer Service",
+    "description": "Staff requires additional training on customer interaction",
+    "status": "In Progress",
+    "raisedDate": "2024-02-18T12:15:00Z"
+  },
+  {
+    "Id": 5,
+    "auditId": "AUD003",
+    "severity": "Low",
+    "category": "Documentation",
+    "description": "Missing compliance certificates on display",
+    "status": "Resolved",
+    "raisedDate": "2024-02-10T09:30:00Z"
+  },
+  {
+    "Id": 6,
+    "auditId": "AUD007",
+    "severity": "High",
+    "category": "Safety",
+    "description": "Fire exit partially blocked by merchandise",
+    "status": "Open",
+    "raisedDate": "2024-02-20T11:20:00Z"
+  },
+  {
+    "Id": 7,
+    "auditId": "AUD002",
+    "severity": "Medium",
+    "category": "Inventory",
+    "description": "Stock discrepancies in high-value items",
+    "status": "In Progress",
+    "raisedDate": "2024-02-16T16:45:00Z"
+  },
+  {
+    "Id": 8,
+    "auditId": "AUD006",
+    "severity": "Low",
+    "category": "Marketing",
+    "description": "Outdated promotional materials still displayed",
+    "status": "Open",
+    "raisedDate": "2024-02-19T13:15:00Z"
+  },
+  {
+    "Id": 9,
+    "auditId": "AUD001",
+    "severity": "Low",
+    "category": "Technology",
+    "description": "POS system experiencing minor glitches",
+    "status": "Resolved",
+    "raisedDate": "2024-02-15T10:30:00Z"
+  },
+  {
+    "Id": 10,
+    "auditId": "AUD004",
+    "severity": "Critical",
+    "category": "Security",
+    "description": "Security camera system partially non-functional",
+    "status": "Open",
+    "raisedDate": "2024-02-14T15:20:00Z"
+  },
+  {
+    "Id": 11,
+    "auditId": "AUD005",
+    "severity": "Medium",
+    "category": "Compliance",
+    "description": "Health and safety checklist incomplete",
+    "status": "In Progress",
+    "raisedDate": "2024-02-18T10:00:00Z"
+  },
+  {
+    "Id": 12,
+    "auditId": "AUD009",
+    "severity": "High",
+    "category": "Staff Training",
+    "description": "New employee onboarding documentation missing",
+    "status": "Open",
+    "raisedDate": "2024-02-21T14:30:00Z"
+  }
+]

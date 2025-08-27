@@ -1,0 +1,99 @@
+@import 'react-toastify/dist/ReactToastify.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom toast styling */
+.Toastify__toast {
+  border-radius: 8px !important;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 14px !important;
+  padding: 12px 16px !important;
+  margin-bottom: 8px !important;
+}
+
+.Toastify__toast--success {
+  background: linear-gradient(135deg, #27AE60, #2ECC71) !important;
+}
+
+.Toastify__toast--error {
+  background: linear-gradient(135deg, #E74C3C, #EC7063) !important;
+}
+
+.Toastify__toast--info {
+  background: linear-gradient(135deg, #3498DB, #5DADE2) !important;
+}
+
+.Toastify__toast--warning {
+  background: linear-gradient(135deg, #F39C12, #F7DC6F) !important;
+  color: #2C3E50 !important;
+}
+
+.Toastify__progress-bar {
+  background: rgba(255, 255, 255, 0.3) !important;
+}
+
+.Toastify__close-button {
+  opacity: 0.8 !important;
+}
+
+.Toastify__close-button:hover {
+  opacity: 1 !important;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #2874A6, #1B4F72);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #1B4F72, #154360);
+}
+
+/* Animation utilities */
+.animate-pulse-slow {
+  animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Gradient text utilities */
+.gradient-text {
+  background: linear-gradient(135deg, #1B4F72, #2874A6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-accent {
+  background: linear-gradient(135deg, #E67E22, #F39C12);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glass morphism effects */
+.glass-morphism {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Base styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, #F5F7FA 0%, #E8F0F7 100%);
+  min-height: 100vh;
+}
+
+.font-display {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}

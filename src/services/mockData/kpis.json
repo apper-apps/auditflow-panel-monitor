@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 1,
+    "name": "Audit Completion Rate",
+    "value": 94,
+    "target": 95,
+    "trend": "up",
+    "period": "Monthly",
+    "icon": "Target",
+    "isPrimary": true,
+    "changePercent": "+8.5%"
+  },
+  {
+    "Id": 2,
+    "name": "Compliance Score",
+    "value": 87,
+    "target": 90,
+    "trend": "up",
+    "period": "Monthly",
+    "icon": "Shield",
+    "isPrimary": true,
+    "changePercent": "+12.3%"
+  },
+  {
+    "Id": 3,
+    "name": "Active Exceptions",
+    "value": 23,
+    "target": 15,
+    "trend": "down",
+    "period": "Monthly",
+    "icon": "AlertTriangle",
+    "isPrimary": true,
+    "changePercent": "-15.2%"
+  },
+  {
+    "Id": 4,
+    "name": "Stores Audited",
+    "value": 142,
+    "target": 150,
+    "trend": "up",
+    "period": "Monthly",
+    "icon": "Building",
+    "isPrimary": true,
+    "changePercent": "+6.8%"
+  },
+  {
+    "Id": 5,
+    "name": "Avg Audit Time",
+    "value": 2.3,
+    "target": 2.5,
+    "trend": "down",
+    "period": "Hours",
+    "icon": "Clock",
+    "isPrimary": false,
+    "changePercent": "-25%"
+  },
+  {
+    "Id": 6,
+    "name": "Critical Issues",
+    "value": 8,
+    "target": 5,
+    "trend": "down",
+    "period": "Monthly",
+    "icon": "AlertCircle",
+    "isPrimary": false,
+    "changePercent": "-33%"
+  },
+  {
+    "Id": 7,
+    "name": "Green Ratings",
+    "value": 78,
+    "target": 80,
+    "trend": "up",
+    "period": "Percentage",
+    "icon": "CheckCircle",
+    "isPrimary": false,
+    "changePercent": "+12%"
+  },
+  {
+    "Id": 8,
+    "name": "Active Auditors",
+    "value": 12,
+    "target": 15,
+    "trend": "stable",
+    "period": "Count",
+    "icon": "Users",
+    "isPrimary": false,
+    "changePercent": "0%"
+  },
+  {
+    "Id": 9,
+    "name": "Response Time",
+    "value": 4.2,
+    "target": 4.0,
+    "trend": "up",
+    "period": "Hours",
+    "icon": "Zap",
+    "isPrimary": false,
+    "changePercent": "+5%"
+  },
+  {
+    "Id": 10,
+    "name": "Regional Coverage",
+    "value": 95,
+    "target": 100,
+    "trend": "up",
+    "period": "Percentage",
+    "icon": "MapPin",
+    "isPrimary": false,
+    "changePercent": "+8%"
+  }
+]

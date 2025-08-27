@@ -1,0 +1,146 @@
+[
+  {
+    "Id": 1,
+    "name": "Downtown Plaza",
+    "region": "Central",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "performanceScore": 94
+  },
+  {
+    "Id": 2,
+    "name": "Westfield Mall",
+    "region": "West",
+    "latitude": 40.7589,
+    "longitude": -73.9851,
+    "performanceScore": 87
+  },
+  {
+    "Id": 3,
+    "name": "Airport Terminal",
+    "region": "East",
+    "latitude": 40.7505,
+    "longitude": -73.9934,
+    "performanceScore": 91
+  },
+  {
+    "Id": 4,
+    "name": "Suburban Center",
+    "region": "North",
+    "latitude": 40.7831,
+    "longitude": -73.9712,
+    "performanceScore": 82
+  },
+  {
+    "Id": 5,
+    "name": "Harbor Point",
+    "region": "South",
+    "latitude": 40.7282,
+    "longitude": -74.0776,
+    "performanceScore": 89
+  },
+  {
+    "Id": 6,
+    "name": "Metro Station",
+    "region": "Central",
+    "latitude": 40.7614,
+    "longitude": -73.9776,
+    "performanceScore": 95
+  },
+  {
+    "Id": 7,
+    "name": "Business District",
+    "region": "Central",
+    "latitude": 40.7549,
+    "longitude": -73.9840,
+    "performanceScore": 88
+  },
+  {
+    "Id": 8,
+    "name": "University Area",
+    "region": "North",
+    "latitude": 40.8176,
+    "longitude": -73.9782,
+    "performanceScore": 76
+  },
+  {
+    "Id": 9,
+    "name": "Shopping Center",
+    "region": "West",
+    "latitude": 40.7282,
+    "longitude": -74.0776,
+    "performanceScore": 92
+  },
+  {
+    "Id": 10,
+    "name": "Riverside Plaza",
+    "region": "East",
+    "latitude": 40.7425,
+    "longitude": -73.9597,
+    "performanceScore": 85
+  },
+  {
+    "Id": 11,
+    "name": "Tech Hub",
+    "region": "South",
+    "latitude": 40.7061,
+    "longitude": -74.0087,
+    "performanceScore": 93
+  },
+  {
+    "Id": 12,
+    "name": "Historic District",
+    "region": "Central",
+    "latitude": 40.7731,
+    "longitude": -73.9712,
+    "performanceScore": 79
+  },
+  {
+    "Id": 13,
+    "name": "Medical Center",
+    "region": "North",
+    "latitude": 40.7831,
+    "longitude": -73.9425,
+    "performanceScore": 86
+  },
+  {
+    "Id": 14,
+    "name": "Sports Complex",
+    "region": "West",
+    "latitude": 40.7505,
+    "longitude": -74.0134,
+    "performanceScore": 90
+  },
+  {
+    "Id": 15,
+    "name": "Financial District",
+    "region": "South",
+    "latitude": 40.7074,
+    "longitude": -74.0113,
+    "performanceScore": 97
+  },
+  {
+    "Id": 16,
+    "name": "Convention Center",
+    "region": "West",
+    "latitude": 40.7549,
+    "longitude": -74.0020,
+    "performanceScore": 81
+  },
+  {
+    "Id": 17,
+    "name": "Marina Bay",
+    "region": "East",
+    "latitude": 40.7282,
+    "longitude": -73.9342,
+    "performanceScore": 88
+  },
+  {
+    "Id": 18,
+    "name": "Cultural Quarter",
+    "region": "North",
+    "latitude": 40.7794,
+    "longitude": -73.9632,
+    "performanceScore": 84
+  }
+]

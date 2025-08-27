@@ -1,0 +1,114 @@
+[
+  {
+    "Id": "AUD001",
+    "storeId": "STR001",
+    "auditorId": "AUD001",
+    "scheduledDate": "2024-02-15T10:00:00Z",
+    "status": "Completed",
+    "completionDate": "2024-02-15T14:30:00Z",
+    "overallRating": "green",
+    "responses": [
+      {"question": "Store cleanliness", "rating": "green", "comments": "Excellent standards maintained"},
+      {"question": "Staff behavior", "rating": "green", "comments": "Professional and helpful"},
+      {"question": "Product display", "rating": "amber", "comments": "Minor pricing inconsistencies"}
+    ]
+  },
+  {
+    "Id": "AUD002",
+    "storeId": "STR002",
+    "auditorId": "AUD002",
+    "scheduledDate": "2024-02-16T09:00:00Z",
+    "status": "In Progress",
+    "completionDate": null,
+    "overallRating": null,
+    "responses": []
+  },
+  {
+    "Id": "AUD003",
+    "storeId": "STR003",
+    "auditorId": "AUD003",
+    "scheduledDate": "2024-02-17T11:00:00Z",
+    "status": "Scheduled",
+    "completionDate": null,
+    "overallRating": null,
+    "responses": []
+  },
+  {
+    "Id": "AUD004",
+    "storeId": "STR004",
+    "auditorId": "AUD001",
+    "scheduledDate": "2024-02-14T13:00:00Z",
+    "status": "Overdue",
+    "completionDate": null,
+    "overallRating": null,
+    "responses": []
+  },
+  {
+    "Id": "AUD005",
+    "storeId": "STR005",
+    "auditorId": "AUD004",
+    "scheduledDate": "2024-02-18T08:30:00Z",
+    "status": "Completed",
+    "completionDate": "2024-02-18T12:15:00Z",
+    "overallRating": "amber",
+    "responses": [
+      {"question": "Store cleanliness", "rating": "green", "comments": "Good overall"},
+      {"question": "Staff behavior", "rating": "amber", "comments": "Training needed on customer service"},
+      {"question": "Product display", "rating": "green", "comments": "Well organized"}
+    ]
+  },
+  {
+    "Id": "AUD006",
+    "storeId": "STR006",
+    "auditorId": "AUD002",
+    "scheduledDate": "2024-02-19T14:00:00Z",
+    "status": "Scheduled",
+    "completionDate": null,
+    "overallRating": null,
+    "responses": []
+  },
+  {
+    "Id": "AUD007",
+    "storeId": "STR007",
+    "auditorId": "AUD003",
+    "scheduledDate": "2024-02-20T10:30:00Z",
+    "status": "In Progress",
+    "completionDate": null,
+    "overallRating": null,
+    "responses": []
+  },
+  {
+    "Id": "AUD008",
+    "storeId": "STR008",
+    "auditorId": "AUD005",
+    "scheduledDate": "2024-02-12T15:00:00Z",
+    "status": "Completed",
+    "completionDate": "2024-02-12T18:45:00Z",
+    "overallRating": "red",
+    "responses": [
+      {"question": "Store cleanliness", "rating": "red", "comments": "Significant cleaning issues"},
+      {"question": "Staff behavior", "rating": "amber", "comments": "Mixed performance"},
+      {"question": "Product display", "rating": "red", "comments": "Poor organization and pricing errors"}
+    ]
+  },
+  {
+    "Id": "AUD009",
+    "storeId": "STR009",
+    "auditorId": "AUD001",
+    "scheduledDate": "2024-02-21T09:15:00Z",
+    "status": "Scheduled",
+    "completionDate": null,
+    "overallRating": null,
+    "responses": []
+  },
+  {
+    "Id": "AUD010",
+    "storeId": "STR010",
+    "auditorId": "AUD004",
+    "scheduledDate": "2024-02-22T11:45:00Z",
+    "status": "Scheduled",
+    "completionDate": null,
+    "overallRating": null,
+    "responses": []
+  }
+]
